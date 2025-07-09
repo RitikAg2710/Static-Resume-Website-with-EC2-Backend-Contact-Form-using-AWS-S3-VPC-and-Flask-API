@@ -1,6 +1,5 @@
 # Static-Resume-Website-with-EC2-Backend-Contact-Form-using-AWS-S3-VPC-and-Flask-API
 
-# 💼 Static Resume Website with EC2-Backend Contact Form using AWS S3, VPC, and Flask API
 
 This project showcases a production-ready DevOps setup where a static resume website is hosted on **Amazon S3**, and the contact form submits data to a **Flask API** hosted on an **EC2 instance** within a **manually created VPC**.
 
